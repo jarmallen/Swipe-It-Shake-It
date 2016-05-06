@@ -12,6 +12,11 @@
 		FADB840A1CDD2D0B0032966C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADB84081CDD2D0B0032966C /* Main.storyboard */; };
 		FADB840C1CDD2D0B0032966C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FADB840B1CDD2D0B0032966C /* Assets.xcassets */; };
 		FADB840F1CDD2D0B0032966C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADB840D1CDD2D0B0032966C /* LaunchScreen.storyboard */; };
+		FADB841B1CDD2E3B0032966C /* boing_comical_accent.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FADB84161CDD2E3B0032966C /* boing_comical_accent.mp3 */; };
+		FADB841C1CDD2E3B0032966C /* comedy_accent_crash_and_burn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FADB84171CDD2E3B0032966C /* comedy_accent_crash_and_burn.mp3 */; };
+		FADB841D1CDD2E3B0032966C /* comedy_male_yelling_yee_ha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FADB84181CDD2E3B0032966C /* comedy_male_yelling_yee_ha.mp3 */; };
+		FADB841E1CDD2E3B0032966C /* comedy_zips_pops_and_bonks.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FADB84191CDD2E3B0032966C /* comedy_zips_pops_and_bonks.mp3 */; };
+		FADB841F1CDD2E3B0032966C /* quick_buzzer_like_a_game_show_wrong_answer_.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FADB841A1CDD2E3B0032966C /* quick_buzzer_like_a_game_show_wrong_answer_.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		FADB840B1CDD2D0B0032966C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FADB840E1CDD2D0B0032966C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FADB84101CDD2D0B0032966C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FADB84161CDD2E3B0032966C /* boing_comical_accent.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = boing_comical_accent.mp3; sourceTree = "<group>"; };
+		FADB84171CDD2E3B0032966C /* comedy_accent_crash_and_burn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = comedy_accent_crash_and_burn.mp3; sourceTree = "<group>"; };
+		FADB84181CDD2E3B0032966C /* comedy_male_yelling_yee_ha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = comedy_male_yelling_yee_ha.mp3; sourceTree = "<group>"; };
+		FADB84191CDD2E3B0032966C /* comedy_zips_pops_and_bonks.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = comedy_zips_pops_and_bonks.mp3; sourceTree = "<group>"; };
+		FADB841A1CDD2E3B0032966C /* quick_buzzer_like_a_game_show_wrong_answer_.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = quick_buzzer_like_a_game_show_wrong_answer_.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +67,11 @@
 				FADB84041CDD2D0B0032966C /* AppDelegate.swift */,
 				FADB84061CDD2D0B0032966C /* ViewController.swift */,
 				FADB84081CDD2D0B0032966C /* Main.storyboard */,
+				FADB84161CDD2E3B0032966C /* boing_comical_accent.mp3 */,
+				FADB84171CDD2E3B0032966C /* comedy_accent_crash_and_burn.mp3 */,
+				FADB84181CDD2E3B0032966C /* comedy_male_yelling_yee_ha.mp3 */,
+				FADB84191CDD2E3B0032966C /* comedy_zips_pops_and_bonks.mp3 */,
+				FADB841A1CDD2E3B0032966C /* quick_buzzer_like_a_game_show_wrong_answer_.mp3 */,
 				FADB840B1CDD2D0B0032966C /* Assets.xcassets */,
 				FADB840D1CDD2D0B0032966C /* LaunchScreen.storyboard */,
 				FADB84101CDD2D0B0032966C /* Info.plist */,
@@ -124,7 +139,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				FADB840F1CDD2D0B0032966C /* LaunchScreen.storyboard in Resources */,
+				FADB841C1CDD2E3B0032966C /* comedy_accent_crash_and_burn.mp3 in Resources */,
+				FADB841F1CDD2E3B0032966C /* quick_buzzer_like_a_game_show_wrong_answer_.mp3 in Resources */,
+				FADB841B1CDD2E3B0032966C /* boing_comical_accent.mp3 in Resources */,
 				FADB840C1CDD2D0B0032966C /* Assets.xcassets in Resources */,
+				FADB841D1CDD2E3B0032966C /* comedy_male_yelling_yee_ha.mp3 in Resources */,
+				FADB841E1CDD2E3B0032966C /* comedy_zips_pops_and_bonks.mp3 in Resources */,
 				FADB840A1CDD2D0B0032966C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
